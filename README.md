@@ -58,5 +58,6 @@ Below are some of the recommendations for marketing strategies
 5.	When considering brands to prioritize for marketing and campaigns, it is recommended to focus on Solex, WeareA2B, and Giant Bicycles. These brands have shown a significant level of success and customer preference, making them the top priority for targeted marketing efforts. By directing resources toward promoting these brands, the company can maximize its marketing impact and potentially attract a larger customer base. 
 6.	To maximize revenue, Sprocket Central Pty Ltd should intensify its marketing and campaign efforts during specific months. The analysis revealed that January, May, July, August, and October were the months with the highest recorded revenue. By strategically focusing on these months, the company can capitalize on the existing market trends and customer preferences to drive increased sales and profitability.  
 
+Feel free to interact with the dashboard [here](https://app.powerbi.com/links/M8ixl3Mk8N?ctid=e294d653-4a87-4e4b-a752-1efe59654aeb&pbi_source=linkShare)
 
 Thank you for reading 🤝
