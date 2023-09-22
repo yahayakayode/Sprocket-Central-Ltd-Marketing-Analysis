@@ -6,8 +6,6 @@ I was tasked with analyzing customer data for Sprocket Central Pty Ltd, where I 
 2. Data Insights
 3. Data Insights and Presentation
 
-![image](https://github.com/yahayakayode/Sprocket-Central-Ltd-Marketing-Analysis/assets/40303292/bbb215a6-b613-48ca-8b2a-701ff3a3e79b)
-
 ![image](https://github.com/yahayakayode/Sprocket-Central-Ltd-Marketing-Analysis/assets/40303292/e91b151a-26a3-4274-be05-9f3c4bdcf59e)
 
 
