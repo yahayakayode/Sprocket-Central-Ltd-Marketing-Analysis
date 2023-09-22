@@ -1,13 +1,12 @@
 # Sprocket Central Pty Ltd Marketing Analysis
 
+![image](https://github.com/yahayakayode/Sprocket-Central-Ltd-Marketing-Analysis/assets/40303292/e91b151a-26a3-4274-be05-9f3c4bdcf59e)
+
 I am thrilled to share my enriching experience as a Data Analyst Intern with KPMG International Limited. Allow me to capture the highlights of this invaluable journey. 
 I was tasked with analyzing customer data for Sprocket Central Pty Ltd, where I focused on the following key responsibilities:
 1. Data Quality Assessment
 2. Data Insights
 3. Data Insights and Presentation
-
-![image](https://github.com/yahayakayode/Sprocket-Central-Ltd-Marketing-Analysis/assets/40303292/e91b151a-26a3-4274-be05-9f3c4bdcf59e)
-
 
 # An Overview 
 Sprocket Central Pty Ltd is a mid-sized company that specializes in providing top-tier bicycles and readily accessible cycling accessories to riders. Sprocket Central Pty Ltd, a prominent organization, is encountering a familiar obstacle prevalent in the business world. They are focused on efficiently analyzing customer data to optimize their marketing strategies. However, the company's team is currently grappling with the task of transforming and cleaning the dataset to ensure its suitability for analysis. With a substantial dataset at their disposal, they seek expert guidance on how to effectively preprocess and refine the data for accurate analysis. 
@@ -44,10 +43,10 @@ After performing data cleaning on the dataset, I went further to establish relat
 
 # Data Analysis & Visualisation
 Two interactive reports were created to answer the business questions for the marketing team.
-## 1. Revenue Analysis
+## 1. Revenue Analysis Report
 <img width="840" alt="Revenue Analysis" src="https://github.com/yahayakayode/Sprocket-Central-Ltd-Marketing-Analysis/assets/40303292/a63ed4b9-c27e-4b36-84e3-acde8e4e3e6a">
 
-## 2. Customers Analysis
+## 2. Customers Analysis Report
 <img width="843" alt="Customer Analysis" src="https://github.com/yahayakayode/Sprocket-Central-Ltd-Marketing-Analysis/assets/40303292/699fb40d-fae3-4a30-b74a-bf2a86ba2aaa">
 
 # Recommendations
